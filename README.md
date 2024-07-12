@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new programs and explore this digital world
 - 🌱 I’m currently learning C language along with Python language for machine learning
 - 💞️ I’m looking to collaborate on Machine Learning related of projects
-- 📫 How to reach me ddebanjan2003@gmail.com and debanjandeb2003@gmail.com
+- 📫 How to reach me ddebanjan2003@gmail.com and debanjandeb2003@gmail.com and 2330024@kiit.ac.in
 
 <!---
 debanjandeb03/debanjandeb03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

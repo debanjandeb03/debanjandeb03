@@ -71,5 +71,6 @@ My work focuses on:
 
 ## 📫 Connect With Me
 📧 ddebanjan2003@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn link)
+🔗 LinkedIn: 🔗 [LinkedIn](https://www.linkedin.com/in/debanjan-deb-3365242aa)
+
 

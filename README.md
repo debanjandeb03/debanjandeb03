@@ -1,6 +1,6 @@
 # Debanjan Deb 👋
 
-🎓 B.Tech (ECS), KIIT University (CGPA: 8.0)  
+🎓 B.Tech (ECS), KIIT University (CGPA: 8.02)  
 🤖 Machine Learning & NLP Engineer  
 ⚡ Focused on Scalable AI Systems, LLMs & Deployment  
 
